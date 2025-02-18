@@ -10,6 +10,11 @@ path = 'contracts/rec-issuance.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.rec-retirement]
+path = 'contracts/rec-retirement.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.rec-trading]
 path = 'contracts/rec-trading.clar'
 clarity_version = 2
