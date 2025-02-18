@@ -13,3 +13,5 @@ I
 tests/rec-trading.test.ts,9/e/9e63f2fdde43adedd301146ae81fea4511b8e785
 O
 contracts/rec-verification.clar,0/9/09ad788bf6fc4864ef4b770191454afc8ce2584a
+N
+tests/rec-verification.test.ts,4/e/4ea09c1440c11052936e6c8eb613bf197d7e522c
