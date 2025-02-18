@@ -11,3 +11,5 @@ J
 contracts/rec-trading.clar,1/4/14379e3fd67a887a80ada5aefa99799aa58ba693
 I
 tests/rec-trading.test.ts,9/e/9e63f2fdde43adedd301146ae81fea4511b8e785
+O
+contracts/rec-verification.clar,0/9/09ad788bf6fc4864ef4b770191454afc8ce2584a
