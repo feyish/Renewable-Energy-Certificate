@@ -9,3 +9,5 @@ J
 tests/rec-issuance.test.ts,3/2/3210185a0303b144f68a1f59baea5eb55d379c63
 J
 contracts/rec-trading.clar,1/4/14379e3fd67a887a80ada5aefa99799aa58ba693
+I
+tests/rec-trading.test.ts,9/e/9e63f2fdde43adedd301146ae81fea4511b8e785
