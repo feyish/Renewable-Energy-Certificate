@@ -17,3 +17,5 @@ N
 tests/rec-verification.test.ts,4/e/4ea09c1440c11052936e6c8eb613bf197d7e522c
 M
 contracts/rec-retirement.clar,c/f/cfcbc5ac935b566b43616736f3bfcea26fab2c6f
+L
+tests/rec-retirement.test.ts,5/7/571dd99277903cf00740cf3dfe36cb7259f6f7db
